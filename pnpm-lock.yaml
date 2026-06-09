@@ -378,8 +378,8 @@ importers:
         specifier: ^7.1.1
         version: 7.1.1(monaco-editor@0.54.0)(webpack@5.106.2)
       node-abi:
-        specifier: ^4.28.0
-        version: 4.28.0
+        specifier: ^4.31.0
+        version: 4.31.0
       node-gyp:
         specifier: 12.3.0
         version: 12.3.0
@@ -7481,8 +7481,8 @@ packages:
   no-case@3.0.4:
     resolution: {integrity: sha512-fgAN3jGAh+RoxUGZHTSOLJIqUc2wmoBwGR4tbpNAKmmovFoWq0OdRkb0VkldReO2a2iBT/OEulG9XSUc10r3zg==}
 
-  node-abi@4.28.0:
-    resolution: {integrity: sha512-Qfp5XZL1cJDOabOT8H5gnqMTmM4NjvYzHp4I/Kt/Sl76OVkOBBHRFlPspGV0hYvMoqQsypFjT/Yp7Km0beXW9g==}
+  node-abi@4.31.0:
+    resolution: {integrity: sha512-Erq5w/t3syw3s4sDsUaX4QttIdBPsGKTT1DTRsCkTonGggczhlDKm/wDX3o+HPJpQ41EjXCbcmXf0tgr5YZJXw==}
     engines: {node: '>=22.12.0'}
 
   node-abort-controller@3.1.1:
@@ -9551,7 +9551,7 @@ snapshots:
     dependencies:
       '@malept/cross-spawn-promise': 2.0.0
       debug: 4.4.0
-      node-abi: 4.28.0
+      node-abi: 4.31.0
       node-api-version: 0.2.1
       node-gyp: 12.3.0
       read-binary-file-arch: 1.0.6
@@ -13964,7 +13964,7 @@ snapshots:
       lower-case: 2.0.2
       tslib: 2.8.1
 
-  node-abi@4.28.0:
+  node-abi@4.31.0:
     dependencies:
       semver: 7.7.4
 
